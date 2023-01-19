@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+ScriptTemplates/
+ScriptTemplates.meta
+Assets/Mirror/Examples/
+Assets/Mirror/Examples.meta
